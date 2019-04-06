@@ -21,6 +21,7 @@
                 android:src="@drawable/welcomeimg"
                 android:layout_gravity="center"/>
             <TextView
+                android:id="@+id/monitor"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/wel_monitor"
